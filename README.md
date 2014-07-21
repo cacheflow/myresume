@@ -1,0 +1,1 @@
+This is my resume built with HTML and Javascript. I was tired of the typical dry, repetitive word format.
